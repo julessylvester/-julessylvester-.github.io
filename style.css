@@ -41,7 +41,7 @@ box-shadow:0 4px 12px rgba(0,0,0,0.2);
 
 .logo{
 
-color:darkred;
+color:ghostwhite;
 
 font-size:24px;
 
@@ -63,7 +63,7 @@ gap:30px;
 
 nav a{
 
-color:palevioletred;
+color:ghostwhite;
 
 text-decoration:none;
 
@@ -246,7 +246,7 @@ padding:25px;
 
 background:#0f3460;
 
-color:mediumvioletred;
+color:ghostwhite;
 
 margin-top:50px;
 
